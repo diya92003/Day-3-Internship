@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile card</title>
+    <link rel="stylesheet" href="card.css">
+</head>
+<body>
+    <div id="card">
+        <img src="https://img.freepik.com/free-vector/girl-with-happy-smile-white-background_1308-69696.jpg" alt="loading">
+        <h3>Diya Shetty</h3>
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Delectus nobis molestias pariatur nesciunt, expedita quisquam eligendi dolore beatae temporibus? Laboriosam delectus veritatis, et animi aut nobis dolorum iusto quibusdam minus.</p>
+    </div>
+</body>
+</html>

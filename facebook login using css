@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Facebook</title>
+    <link rel="stylesheet" href="box.css">
+</head>
+<body>
+    <h1 style="color: rgb(66, 66, 206); text-align: center;">facebook</h1>
+    <div id="box">
+        <h3>Log in to facebook</h3>
+        <input style="padding: 5px; width: 288px;" type="text" placeholder="Email address or phone number">
+        <br><br>
+        <input style="padding: 5px; width: 288px;" type="password" placeholder="Password">
+        <br><br>
+        <button style="padding: 5px; width: 300px;" type="submit"><b>Log in</b></button>
+        <br><br>
+        <a href="https://www.facebook.com/login/identify/?ctx=recover&ars=facebook_login&from_login_screen=0"> Forgotten account?</a>
+        <a href="https://www.facebook.com/login/"> Sign up for Facebook</a>
+    </div>
+</body>
+</html>
